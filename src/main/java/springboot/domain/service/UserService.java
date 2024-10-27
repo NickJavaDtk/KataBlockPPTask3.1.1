@@ -1,7 +1,7 @@
-package springboot.spring.service;
+package springboot.domain.service;
 
 
-import springboot.spring.model.User;
+import springboot.domain.model.User;
 
 import java.util.List;
 

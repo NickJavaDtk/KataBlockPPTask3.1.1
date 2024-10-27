@@ -1,4 +1,4 @@
-package springboot.spring.model;
+package springboot.domain.model;
 
 
 

@@ -1,11 +1,11 @@
-package springboot.spring.dao;
+package springboot.domain.dao;
 
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.TypedQuery;
 import org.springframework.stereotype.Repository;
-import springboot.spring.model.User;
+import springboot.domain.model.User;
 
 import java.util.List;
 

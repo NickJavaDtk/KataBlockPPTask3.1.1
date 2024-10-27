@@ -1,9 +1,9 @@
-package springboot.spring.service;
+package springboot.domain.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import springboot.spring.dao.UserDao;
-import springboot.spring.model.User;
+import springboot.domain.dao.UserDao;
+import springboot.domain.model.User;
 
 import java.util.List;
 

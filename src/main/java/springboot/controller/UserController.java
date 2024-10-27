@@ -1,4 +1,4 @@
-package springboot.web.controller;
+package springboot.controller;
 
 
 import jakarta.validation.Valid;
@@ -6,8 +6,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-import springboot.spring.model.User;
-import springboot.spring.service.UserService;
+import springboot.domain.model.User;
+import springboot.domain.service.UserService;
 
 
 

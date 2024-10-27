@@ -1,6 +1,6 @@
-package springboot.spring.dao;
+package springboot.domain.dao;
 
-import springboot.spring.model.User;
+import springboot.domain.model.User;
 
 import java.util.List;
 
